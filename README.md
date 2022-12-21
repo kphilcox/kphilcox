@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @kphilcox
+- 👀 I’m interested in network related software engineering projects
+- 🌱 I’m currently learning Rust
+- 💞️ I’m looking to collaborate on anything to broaden my horizons
